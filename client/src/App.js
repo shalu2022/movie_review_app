@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div className="App">
-      <div style={{textAlign: 'center', color: 'orange'}}><h1>Movie Review App</h1></div>
+      <div style={{textAlign: 'center', color: 'orange'}}><h1>Movie Reviews App</h1></div>
       <Box display="flex">
         <Box margin={2}>
           <Link to="/">
